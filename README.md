@@ -34,3 +34,6 @@ Additional Identity will remain disclosed
 #Reminder
 #PLEASE DO NOT USE THIS REPO FOR MALICIOUS INTENTS OR ISTG YOU'LL LAND INTO TROUBLE
 #AGAIN THIS IS FOR EDUCATIONAL PURPOSES ONLY!!!
+
+
+This Repo is for informational and educational purposes only. I believe that ethical hacking, information security, and cybersecurity should be familiar subjects to anyone using digital information and computers. I believe that it is impossible to defend yourself from hackers without knowing how hacking is done. This repo is only for those who are interested to learn about ethical hacking, Security, Penetration Testing, and Other Cyber security-related resources. Please regard the word hacking as ethical hacking or penetration testing every time this word is used. I do not promote, encourage, support, or excite any illegal activity or hacking without written permission in general. If you plan to use the information for illegal purposes, please leave this repo now. I cannot be held responsible for any misuse of the given information.
