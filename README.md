@@ -5,7 +5,7 @@
   </p>
 </div>
 
-# Discord Token Grabber [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]() ![Profile views](https://gpvc.arturio.dev/AstraaDev)
+# Discord Token Grabber [![Build Status](https://img.shields.io/badge/covarage-100%25-succes)]() 
 
 > A Discord token grabber written in Python (this version of the grabber only supports Windows).
 
@@ -28,14 +28,9 @@
 This script is for educational purposes. I am in no way responsible for any inconvenience.
 
 # Credits
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/AstraaDev)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/AstraaDev)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](http://astraadev.club)  
-<br>
-[![Astraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstraaDev)](https://github.com/AstraaDev/github-readme-stats)
+Made By Nishant Iyer
+Additional Identity will remain disclosed
 
-# Donate
-Support this project and [others](https://github.com/AstraaDev) by Astraa via [PayPal](https://www.paypal.com/).
-<br>
-<br>
-<a href="https://www.paypal.me/fmrhrt/">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
+#Reminder
+#PLEASE DO NOT USE THIS REPO FOR MALICIOUS INTENTS OR ISTG YOU'LL LAND INTO TROUBLE
+#AGAIN THIS IS FOR EDUCATIONAL PURPOSES ONLY!!!
